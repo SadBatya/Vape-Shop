@@ -1,0 +1,22 @@
+@font-face {
+    font-family: "CrimsonText";
+    font-weight: 400;
+    font-style: normal;
+    src: local(CrimsonText Regular),
+         local(CrimsonText-Regular),
+         url(/fonts/CrimsonText-Regular.woff2) format("woff2"), 
+         url(/fonts/CrimsonText-Regular.woff) format("woff"), 
+         url(/fonts/CrimsonText-Regular.eot)  format("eot");
+    font-display: swap;
+  }
+@font-face {
+    font-family: "CrimsonText";
+    font-weight: 700;
+    font-style: normal;
+    src: local(CrimsonText Bold),
+         local(CrimsonText-Bold),
+         url(/fonts/CrimsonText-Bold.woff2) format("woff2"), 
+         url(/fonts/CrimsonText-Bold.woff) format("woff"), 
+         url(/fonts/CrimsonText-Bold.eot)  format("eot");
+    font-display: swap;
+  }
